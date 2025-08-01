@@ -1,0 +1,36 @@
+.principal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  background-image: url("../assets/background.png") ;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+.formulario{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    width: 400px;
+    background-color: white;
+    opacity: 0.8;
+}
+
+.imagem{
+    width: 150px;
+    height: 150px;
+}
+.input-box{
+    width: 80%;
+}
+.check{
+    display: flex;
+    justify-content: flex-start;
+    gap: 5px;
+    width: 80%;
+}
+.e-mail{
+    border: 1px solid blue;
+}
