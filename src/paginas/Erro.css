@@ -1,0 +1,31 @@
+.imagem{
+    width: 150px;
+    height: 50px;
+}
+.caixa{
+    display: flex;
+    justify-content: center;
+}
+.alerta{
+    display: flex;
+    justify-content: center;
+}
+.alerta>div{
+    width: 60%;
+}
+.robo{
+    display: flex;
+    justify-content: center;
+    height: 300px;
+}
+.mini{
+    width: 50px;
+    margin-left: 110px;
+}
+.container{
+    font-size: 15px;
+}
+.nav{
+    width: 100%;
+    margin: 0 100px;
+}

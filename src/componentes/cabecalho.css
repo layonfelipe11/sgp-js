@@ -1,0 +1,9 @@
+.imagem{
+    width: 150px;
+    height: 50px;
+}
+
+.caixa{
+    display: flex;
+    justify-content: center;
+}

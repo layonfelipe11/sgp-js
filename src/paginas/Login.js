@@ -5,7 +5,7 @@ export default function Login() {
   return (
     <div className="principal">
       <form className="formulario">
-        <img src={logo} alt="Logo" className="imagem mt-3"/>
+        <img src={logo} alt="Logo" className="w-50 mt-3"/>
         <div className="input-box">
             <label htmlFor="exampleFormControlInput1" className="form-label">
             Email
